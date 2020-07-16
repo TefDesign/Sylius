@@ -47,6 +47,7 @@ sylius_fixtures:
                             - 'ES'
                             - 'CN'
                             - 'GB'
+                            - 'PL'
                         zones:
                             US:
                                 name: 'United States of America'
@@ -79,6 +80,7 @@ sylius_fixtures:
                                         name: 'Category'
                                     fr_FR:
                                         name: 'Catégorie'
+                                    - 'PL'
 
                 channel:
                     options:
